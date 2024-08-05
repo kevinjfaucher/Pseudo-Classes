@@ -1,0 +1,33 @@
+button:hover{
+    font-size: 1.1em;
+    background-color: aquamarine;
+}
+
+button:active{
+    font-size: 1.1em;
+    background-color: red;
+}
+
+a:link{
+    color: lightblue;
+    font-size: 1.1em;
+}
+
+a:active{
+    color: darkblue;
+    font-size: 1.1em;
+}
+
+a:visited{
+    color:purple;
+    font-size: 1.1em;
+}
+
+li:hover{
+    font-size: 1.1em;
+    color: coral;
+}
+
+li:nth-child(1){
+    background-color: red;
+}
